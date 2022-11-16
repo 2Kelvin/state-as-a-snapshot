@@ -1,0 +1,1 @@
+# state-as-a-snapshot
