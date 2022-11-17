@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+.counter {
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
