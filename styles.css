@@ -7,13 +7,24 @@ body {
 .counter {
     display: flex;
     justify-content: space-around;
-    height: 250px;
-    width: 250px;
+    height: 150px;
+    width: 350px;
     align-items: center;
+    border: 1px solid #bbb;
+    border-radius: 15px;
+    padding: 3em;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
 }
 
 button {
     height: 50px;
     width: 100px;
     cursor: pointer;
+    background-color: tomato;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
 }
