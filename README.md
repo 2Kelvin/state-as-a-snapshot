@@ -1,5 +1,7 @@
 # state-as-a-snapshot
 
+![snap](https://user-images.githubusercontent.com/85868026/202908734-eaefdb6f-f4a8-4f58-9fff-f91034caa93e.png)
+
 From this read, I learn that:
 
 - unlike regular variables, a state variable behaves like a `snapshot`: Updating it (through the setter function) `triggers a rerender` instead of changing the value it carries
