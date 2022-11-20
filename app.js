@@ -19,8 +19,6 @@ function Counter() {
       {
         onClick: function onClick() {
           setNumber(number + 3);
-          setNumber(number + 1);
-          setNumber(number + 1);
         }
       },
       "+3"
